@@ -1,2 +1,2 @@
-# lab-1-exerices
-lab 1 exerice
+# Why I like info 201
+I like *info*
